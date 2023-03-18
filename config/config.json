@@ -1,0 +1,23 @@
+{
+  "CONTRACT_ADDRESS": "0xaAa9A3F052F3caaC3d775Eb9e2fE57d7D8dCC310",
+  "SCAN_LINK": "",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "Ether",
+    "ID": 1
+  },
+  "NFT_NAME": "God Hate Banks",
+  "SYMBOL": "GHB",
+  "MAX_SUPPLY": 4444,
+  "FREE_SUPPLY": 999,
+  "DISPLAY_COST": 0.0015,
+  "GAS_LIMIT": 145000,
+  "MAX_PER_TX": 20,
+  "MAX_PER_TX_FREE": 5,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/godhatebanks",
+  "Telegram": "",
+  "Discord": "",
+  "Twitter": "",
+  "SHOW_BACKGROUND": true
+}
